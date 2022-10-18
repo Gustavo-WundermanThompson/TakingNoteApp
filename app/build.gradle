@@ -84,4 +84,7 @@ dependencies {
 
     // Kotlin Extensions and Coroutines support for Room
     implementation "androidx.room:room-ktx:2.3.0"
+
+    // Glance
+    implementation "androidx.glance:glance-appwidget:1.0.0-SNAPSHOT"
 }
